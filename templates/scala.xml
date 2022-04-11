@@ -1,0 +1,8 @@
+<templateSet group="scala">
+  <template name="li" value="logger.info($1$)" description="log info" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
