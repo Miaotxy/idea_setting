@@ -8,14 +8,6 @@
     <option name="JAVADOC_INFO_DELAY" value="1500" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-    <option name="FONT_SCALE" value="1.25" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
