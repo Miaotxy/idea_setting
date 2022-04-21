@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;project;target;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="houyi_ai_memory" type="AUTO_DETECTED" />
       <mapping pattern="houyi_weather" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
