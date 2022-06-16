@@ -1,8 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings TextEnabled="true" StylesheetText="body{&#10;    font-size: 120% !important;&#10;}">
-      <option name="fontFamily" value="Fira Code" />
-    </MarkdownCssSettings>
+    <MarkdownCssSettings TextEnabled="true" StylesheetText="body{&#10;    font-size: 120% !important;&#10;}" />
     <enabledExtensions>
       <entry key="MermaidLanguageExtension" value="false" />
       <entry key="PlantUMLLanguageExtension" value="false" />
